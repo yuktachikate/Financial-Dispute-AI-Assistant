@@ -19,10 +19,13 @@ Unrecognized vendor charges
 2️⃣ Pre-trained AI Model
 Uses facebook/bart-large-cnn for natural language dispute resolution.
 AI understands financial transaction issues and suggests solutions based on regulatory compliance.
+
 3️⃣ AI-Generated Resolutions
 For each transaction dispute, the AI generates a customer-friendly response.
+
 4️⃣ AI Chatbot Deployment
 Integrated Gradio-based chatbot where users input their disputes and get instant AI-generated resolutions.
+
 5️⃣ Fraud Detection Simulation
 AI assigns risk scores to financial transactions.
 Uses a randomized risk model to flag high-risk transactions.
